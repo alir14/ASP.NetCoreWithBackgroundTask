@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPICoreWithBgTask", "WebAPICoreWithBgTask\WebAPICoreWithBgTask.csproj", "{52A87857-0D8C-41A7-866F-14C345B03C16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52A87857-0D8C-41A7-866F-14C345B03C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A87857-0D8C-41A7-866F-14C345B03C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A87857-0D8C-41A7-866F-14C345B03C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A87857-0D8C-41A7-866F-14C345B03C16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57273F1C-3E11-48CF-8A33-592C99636B39}
+	EndGlobalSection
+EndGlobal
